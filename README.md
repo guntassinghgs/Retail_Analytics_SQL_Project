@@ -12,8 +12,11 @@ low sales products, effectively segment its customer base, and analyze customer 
 decisions, and overall customer experience.
  
 L4Q Rev > 0 - Repeat 
+
 L4Q Rev <0 and L12Q Rev > 0 - Lapsing
+
 L5Q Rev <0 and L12Q Rev > 0 - Inactive
+
 L12Q < 0 - Non Buyers
 
 ## Business Problem
